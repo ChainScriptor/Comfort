@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/sefea/Desktop/build/comfort/app/%28client%29/page.tsx"],"sourcesContent":["import { Button } from \"../components/ui/button\";\nimport Container from \"../components/Container\";\nimport HomeBanner from \"../components/HomeBanner\";\nexport default function Home() {\n  return (\n    <Container className=\"py-10\">\n      <div>\n        <HomeBanner />\n      </div>\n    </Container>\n  );\n}\n"],"names":[],"mappings":";;;;;;;;;;;;;;;;;AAGe,SAAS;IACtB,qBACE,8OAAC;QAAU,WAAU;kBACnB,cAAA,8OAAC;sBACC,cAAA,8OAAC;;;;;;;;;;;;;;;AAIT"}},
+    {"offset": {"line": 44, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

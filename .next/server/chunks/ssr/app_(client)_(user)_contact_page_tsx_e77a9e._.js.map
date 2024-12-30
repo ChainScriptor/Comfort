@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/sefea/Desktop/build/comfort/app/%28client%29/%28user%29/contact/page.tsx"],"sourcesContent":["import Container from \"@/components/Container\";\r\n\r\nconst ContactPage = () => {\r\n    return (\r\n        <Container >ContactPage</Container>\r\n    )\r\n}\r\nexport default ContactPage"],"names":[],"mappings":";;;;AAAA;;;AAEA,MAAM,cAAc;IAChB,qBACI,8OAAC,wHAAA,CAAA,UAAS;kBAAE;;;;;;AAEpB;uCACe"}},
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

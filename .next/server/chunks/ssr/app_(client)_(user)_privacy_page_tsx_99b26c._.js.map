@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/sefea/Desktop/build/comfort/app/%28client%29/%28user%29/privacy/page.tsx"],"sourcesContent":["import Container from \"@/components/Container\";\r\nconst PrivacyPage = () => {\r\n    return (\r\n        <Container>PrivacyPage</Container>\r\n    )\r\n}\r\nexport default PrivacyPage"],"names":[],"mappings":";;;;AAAA;;;AACA,MAAM,cAAc;IAChB,qBACI,8OAAC,wHAAA,CAAA,UAAS;kBAAC;;;;;;AAEnB;uCACe"}},
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

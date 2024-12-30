@@ -1,0 +1,3 @@
+{
+  "/(client)/(user)/blog/page": "app/(client)/(user)/blog/page.js"
+}

@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/sefea/Desktop/build/comfort/lib/utils.ts"],"sourcesContent":["import { clsx, type ClassValue } from \"clsx\"\nimport { twMerge } from \"tailwind-merge\"\n\nexport function cn(...inputs: ClassValue[]) {\n  return twMerge(clsx(inputs))\n}\n"],"names":[],"mappings":";;;AAAA;AACA;;;AAEO,SAAS,GAAG,GAAG,MAAoB;IACxC,OAAO,CAAA,GAAA,2JAAA,CAAA,UAAO,AAAD,EAAE,CAAA,GAAA,qIAAA,CAAA,OAAI,AAAD,EAAE;AACtB"}},
+    {"offset": {"line": 17, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 23, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/sefea/Desktop/build/comfort/components/Container.tsx"],"sourcesContent":["import { cn } from \"@/lib/utils\";\r\n\r\n\r\ninterface Props {\r\n    children: React.ReactNode;\r\n    className?: string;\r\n}\r\n\r\nconst Container = ({ children, className }: Props) => {\r\n    return (\r\n        <div className={cn(\"max-w-screen-xl mx-auto px-4\", className)}>{children}</div>\r\n    )\r\n}\r\nexport default Container"],"names":[],"mappings":";;;;AAAA;;;AAQA,MAAM,YAAY,CAAC,EAAE,QAAQ,EAAE,SAAS,EAAS;IAC7C,qBACI,8OAAC;QAAI,WAAW,CAAA,GAAA,4GAAA,CAAA,KAAE,AAAD,EAAE,gCAAgC;kBAAa;;;;;;AAExE;uCACe"}},
+    {"offset": {"line": 41, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 47, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/sefea/Desktop/build/comfort/app/product/%5Bslug%5D/page.tsx"],"sourcesContent":["import Container from \"@/components/Container\";\r\n\r\nconst SingleProductPage = () => {\r\n    return (\r\n        <div>\r\n            <Container>SingleProductPage</Container>\r\n        </div>\r\n    )\r\n}\r\nexport default SingleProductPage"],"names":[],"mappings":";;;;AAAA;;;AAEA,MAAM,oBAAoB;IACtB,qBACI,8OAAC;kBACG,cAAA,8OAAC,wHAAA,CAAA,UAAS;sBAAC;;;;;;;;;;;AAGvB;uCACe"}},
+    {"offset": {"line": 70, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 81, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 81, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

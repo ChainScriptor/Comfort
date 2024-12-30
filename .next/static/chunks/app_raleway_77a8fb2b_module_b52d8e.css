@@ -1,0 +1,26 @@
+/* [project]/app/raleway_77a8fb2b.module.css [app-client] (css) */
+@font-face {
+  font-family: raleway;
+  src: url("../media/Raleway-s.p.03b8ce48.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 100 900;
+}
+
+@font-face {
+  font-family: raleway Fallback;
+  src: local(Arial);
+  ascent-override: 92.39%;
+  descent-override: 23.0%;
+  line-gap-override: 0.0%;
+  size-adjust: 101.74%;
+}
+
+.raleway_77a8fb2b-module__rH3yta__className {
+  font-family: raleway, raleway Fallback;
+}
+
+.raleway_77a8fb2b-module__rH3yta__variable {
+  --font-raleway: "raleway", "raleway Fallback";
+}
+
+/*# sourceMappingURL=app_raleway_77a8fb2b_module_b52d8e.css.map*/

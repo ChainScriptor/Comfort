@@ -1,0 +1,53 @@
+/* [project]/app/(client)/raleway_4ce80ed5.module.css [app-client] (css) */
+@font-face {
+  font-family: raleway;
+  src: url("/_next/static/media/Raleway-s.p.03b8ce48.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 100 900;
+}
+
+@font-face {
+  font-family: raleway Fallback;
+  src: local(Arial);
+  ascent-override: 92.39%;
+  descent-override: 23.0%;
+  line-gap-override: 0.0%;
+  size-adjust: 101.74%;
+}
+
+.raleway_4ce80ed5-module__DWlGCq__className {
+  font-family: raleway, raleway Fallback;
+}
+
+.raleway_4ce80ed5-module__DWlGCq__variable {
+  --font-raleway: "raleway", "raleway Fallback";
+}
+
+
+/* [project]/app/(client)/raleway_4ce80ed5.module.css [app-client] (css) */
+@font-face {
+  font-family: raleway;
+  src: url("/_next/static/media/Raleway-s.p.03b8ce48.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 100 900;
+}
+
+@font-face {
+  font-family: raleway Fallback;
+  src: local(Arial);
+  ascent-override: 92.39%;
+  descent-override: 23.0%;
+  line-gap-override: 0.0%;
+  size-adjust: 101.74%;
+}
+
+.raleway_4ce80ed5-module__DWlGCq__className {
+  font-family: raleway, raleway Fallback;
+}
+
+.raleway_4ce80ed5-module__DWlGCq__variable {
+  --font-raleway: "raleway", "raleway Fallback";
+}
+
+
+/*# sourceMappingURL=app_%28client%29_raleway_4ce80ed5_module_bfd646.css.map*/
